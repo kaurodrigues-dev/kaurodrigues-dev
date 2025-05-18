@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Kau 👋
 
-🖥️ Técnica em Redes de Computadores
+🎓 Graduada em Tecnologia em Sistemas para Internet (IFAC)
 
-🎓 Estudante de Tecnologia em Sistemas para Internet (IFAC)
+🖥️ Técnica em Redes de Computadores (Nível Médio)
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
